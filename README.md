@@ -16,4 +16,6 @@ git init
 gitGraph
     commit id: "Inclusão de README"
     commit id: "Página inicial"
+    branch about-us
+        commit id: "About"
 ```

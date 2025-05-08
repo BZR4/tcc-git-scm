@@ -21,5 +21,6 @@ gitGraph
     checkout main
     branch contact-us
     commit id: "Contact Form"
-    git 
+    checkout main
+    merge about-us
 ```

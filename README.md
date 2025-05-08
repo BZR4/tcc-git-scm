@@ -15,4 +15,5 @@ git init
 ```mermaid
 gitGraph
     commit id: "Inclusão de README"
+    commit id: "Página inicial"
 ```

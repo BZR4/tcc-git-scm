@@ -23,4 +23,21 @@ gitGraph
     commit id: "Contact Form"
     checkout main
     merge about-us
+    checkout main
+    merge contact-us
+    branch login
+    commit
+    commit
+    checkout main
+    merge login
+    branch feed
+    commit
+    commit
+    branch feed-backend
+    commit
+    commit
+    checkout feed
+    merge feed-backend
+    checkout main
+    merge feed
 ```
